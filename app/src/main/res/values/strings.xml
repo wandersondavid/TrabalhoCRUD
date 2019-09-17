@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TrabalhoCRUD</string>
+    <string name="title_activity_cadastro">CadastroActivity</string>
+    <string name="hint_search">hint_search</string>
+    <string name="search_hint">pesquisar</string>
+</resources>
